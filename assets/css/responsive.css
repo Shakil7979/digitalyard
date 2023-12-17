@@ -21,13 +21,16 @@
         flex-direction: column;
         gap: 8px; 
     }
+    .menu ul li a{ 
+        color: #012929;
+    }
     .menu { 
         position: absolute;
         left: 0;
         top: 102%;
         z-index: 999; 
         width: 100%;
-        background: #012929;
+        background: #f0bb26;
         padding: 25px 0; 
         display: none;
     }
